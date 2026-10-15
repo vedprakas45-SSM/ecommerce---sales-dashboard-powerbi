@@ -9,7 +9,9 @@ It provides insights into sales performance, customer trends, and country-wise a
 
 📸 Dashboard Preview
 
-"Dashboard" (powerbi-dashboard.png)
+## 📊 Dashboard Preview
+
+![Ecommerce Sales Dashboard](powerbi-dashboard.png)
 
 ---
 
